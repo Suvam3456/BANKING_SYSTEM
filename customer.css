@@ -1,0 +1,30 @@
+body{
+    background-image: url("images.jpg");
+}
+
+.navbar-nav{
+    font-family:'Oxygen',sans-serif;
+    text-decoration:white;
+    font-weight: bold;
+  }
+  #nav-bar
+  {
+      background-color: rgb(25, 241, 83);
+      position:static;
+      top:0;
+      z-index:10;
+  }
+ 
+  .nav-link {
+      font-family:'Oxygen',sans-serif;
+  }
+  a{
+      color:white;
+  }
+  #footer{
+	font-family:'Oxygen',sans-serif;
+	background-color:#0a0b3b;
+    color:#fff;
+    padding: 5.5% 25%;
+    text-align: center;
+}
